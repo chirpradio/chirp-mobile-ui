@@ -1,1 +1,19 @@
-Files coming soon!
+COLOR SETTINGS:
+
+Text should be:
+
+#fff 	- White
+#c3c3c3	- Light Gray
+#999	- Dark Grey
+#fcfc77	- Yellow
+
+Translucent dark backgrounds should be:
+
+rgba(0,0,0,.7)
+
+The CHIRP Radio branded red is #ec0035
+
+PHOTOSHOP INFO:
+
+Layer groups colored red should always be on.
+Layer groups colored green are switchable depending on what section you want to view.
